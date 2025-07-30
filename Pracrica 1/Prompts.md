@@ -5,19 +5,19 @@ A continuación se presenta una serie de imágenes que muestran las intrucciones
 
 ## 1. Prompt utilizado para el manual
 
-![Herramientas necesarias](Prompt1.png)
+![](Prompt1.png)
 
 ---
 
 ## 2. Prompt ulizado para el manual
 
-![Apagar la laptop](Prompt2.png)
+![](Prompt2.png)
 
 ---
 
 ## 3. Prompt utilizado para el manual
 
-![Limpieza de pantalla](Prompt3.png)
+![](Prompt3.png)
 
 ---
 
